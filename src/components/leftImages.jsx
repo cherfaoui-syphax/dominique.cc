@@ -20,7 +20,7 @@ const textOverlayStyle = {
     fontSize : 15,
     color:"black",
     fontWeight : "bold",
-    fontFamily : "monospace",
+    fontFamily : "Courier New , Roboto ",
 }
 
 export default function LeftImages() {
