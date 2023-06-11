@@ -30,7 +30,7 @@ export default function LeftImages() {
             </Grid>
             
             <Grid item xs={3}>
-                <img style={{height:"88%",marginTop:"6%"}}  src={require('../assets/leftNav/photo.jpg')} ></img>
+                <Link to="/film-making"><img style={{height:"88%",marginTop:"6%"}}  src={require('../assets/leftNav/photo.jpg')} ></img> </Link>
             </Grid>
             <Grid item xs={9}>
                 <Link to="/"><img style={{aspectRatio:1.8}}  src={require('../assets/leftNav/home-icon.jpg')} ></img></Link> 
