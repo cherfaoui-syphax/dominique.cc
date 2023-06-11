@@ -10,7 +10,11 @@ const containerStyle={
     height : "fit-content",
     margin : "auto",
     padding:"5%",
-    lineHeight : 3
+}
+const h1Style={
+    color:"gray",
+    fontSize : "3vw",
+    FontFamily : "Arial", 
 }
 
 export default function ContactPage() {
@@ -63,6 +67,7 @@ export default function ContactPage() {
                     </Grid>
                     <Grid item xs={12} md={9}>
                         <Paper style = {containerStyle} elevation={3}>
+                            <h1 style= {h1Style} >Contact</h1>
                             <h2>Here are a list of ways to contact me:</h2>
 
                             By email: <a href="mailto:conejoplata@gmail.com">conejoplata@gmail.com</a><br/>

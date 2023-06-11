@@ -30,7 +30,7 @@ export default function MainColumn(){
     return <>
         <Grid container >
             <Paper style = {containerStyle} elevation={3}>
-                <h1 style= {h1Style} >Projects</h1>
+                <h1 style= {h1Style} >Portfolio</h1>
 
             <   Grid item xs={12} md={12} >
                     <a style={titleStyle}>Appointment Scheduler </a> -- Appointment scheduler front-end built with ReactJS.
