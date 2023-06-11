@@ -11,6 +11,12 @@ const containerStyle={
     padding:"5%"
 }
 
+const h1Style={
+    color:"gray",
+    fontSize : "3vw",
+    FontFamily : "Arial", 
+}
+
 
 export default function FilmMaking() {
     useEffect(() => {
@@ -62,6 +68,7 @@ export default function FilmMaking() {
                     </Grid>
                     <Grid item xs={12} md={9}>
                         <Paper style = {containerStyle} elevation={3}>
+                            <h1 style= {h1Style} >Film Making</h1>
 
                             <div style = {{ minHeight : 1000 , width : "100%" , backgroundcolor: "#aaaaaa"  }}></div>
                         </Paper>
