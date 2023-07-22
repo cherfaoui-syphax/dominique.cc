@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dce9219.css",
+    "main.js": "/static/js/main.2f2eb4bf.js",
+    "static/js/787.dc75bb0d.chunk.js": "/static/js/787.dc75bb0d.chunk.js",
+    "static/media/appointment-scheduler.gif": "/static/media/appointment-scheduler.271a9f6a51c375c84f2d.gif",
+    "static/media/cityscape.gif": "/static/media/cityscape.fdc4a6f440587b03edb4.gif",
+    "static/media/theopenfund.png": "/static/media/theopenfund.f139b0f29ac044acb573.png",
+    "static/media/ondevs.png": "/static/media/ondevs.cec39c23620b0f5348ff.png",
+    "static/media/soshio-login.png": "/static/media/soshio-login.b1becd9f296168c53e7a.png",
+    "static/media/abvcinc.png": "/static/media/abvcinc.caa18efc3c96397e2670.png",
+    "static/media/tarzanawinesandspirits.png": "/static/media/tarzanawinesandspirits.4af256af1d210a416225.png",
+    "static/media/ibrowse.png": "/static/media/ibrowse.7be742914500aa0f6724.png",
+    "static/media/travtar.png": "/static/media/travtar.859c05608aedac7c7e86.png",
+    "static/media/airhitch.png": "/static/media/airhitch.285cb125c9eaa12fc12c.png",
+    "static/media/librelending.png": "/static/media/librelending.e4b089e0cba518579765.png",
+    "static/media/aircomp.png": "/static/media/aircomp.55212e70f4265ceaa0ec.png",
+    "static/media/drhola-preview.png": "/static/media/drhola-preview.84efa5b8975d6b45367e.png",
+    "static/media/boxes-small.jpg": "/static/media/boxes-small.338fe9dd81d1bf3b00cc.jpg",
+    "static/media/envelopes-small.jpg": "/static/media/envelopes-small.6d43c7baa89db36411d7.jpg",
+    "static/media/multipixels.jpg": "/static/media/multipixels.d44221f43f589a9570a4.jpg",
+    "static/media/victorian.png": "/static/media/victorian.b2b82fbf67399a399483.png",
+    "static/media/pixels-small.jpg": "/static/media/pixels-small.aee42a3209cb404b4fa7.jpg",
+    "static/media/ibrowse2.png": "/static/media/ibrowse2.6fad3c4c88b0013737c9.png",
+    "static/media/cds-small.jpg": "/static/media/cds-small.8b32b4405966eab01c43.jpg",
+    "static/media/books.jpg": "/static/media/books.3af0a20c3c04b0849589.jpg",
+    "static/media/photo.jpg": "/static/media/photo.68c3a60209cdcad405b8.jpg",
+    "static/media/old_computer.jpg": "/static/media/old_computer.559e709727ffc69952a1.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4dce9219.css.map": "/static/css/main.4dce9219.css.map",
+    "main.2f2eb4bf.js.map": "/static/js/main.2f2eb4bf.js.map",
+    "787.dc75bb0d.chunk.js.map": "/static/js/787.dc75bb0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dce9219.css",
+    "static/js/main.2f2eb4bf.js"
+  ]
+}
